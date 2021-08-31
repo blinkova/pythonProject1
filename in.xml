@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Data>
+    <Place>
+        <Place0>
+            <display_name>60, Большой Сампсониевский проспект, Выборгская сторона, округ Сампсониевское, Санкт-Петербург, Северо-Западный федеральный округ, 190000, Россия</display_name>
+            <latitude>59.9734426</latitude>
+            <longitude>30.336028351320373</longitude>
+        </Place0>
+        <Place1>
+            <display_name>санкт-петербуг, автобусный парк</display_name>
+            <latitude></latitude>
+            <longitude></longitude>
+        </Place1>
+        <Place2>
+            <display_name>Рим</display_name>
+            <latitude>41.8933203</latitude>
+            <longitude>12.4829321</longitude>
+        </Place2>
+        <Place3>
+            <display_name>Winchester District Memorial Hospital, 566, Louise Street, Winchester, North Dundas, Stormont, Dundas and Glengarry Counties, Eastern Ontario, Ontario, K0C 2K0, Canada</display_name>
+            <latitude>45.088257350000006</latitude>
+            <longitude>-75.3542848778167</longitude>
+        </Place3>
+        <Place4>
+            <display_name>Greenland</display_name>
+            <latitude>71.81717990000001</latitude>
+            <longitude>-40.42628783678519</longitude>
+        </Place4>
+        <Place5>
+            <display_name>Heard Island and McDonald Islands</display_name>
+            <latitude>-53.0166353</latitude>
+            <longitude>72.955751</longitude>
+        </Place5>
+        <Place6>
+            <display_name>长城</display_name>
+            <latitude>40.3314137</latitude>
+            <longitude>115.9718567</longitude>
+        </Place6>
+    </Place>
+    <Сoordinates>
+        <coordinates0>
+            <latitude>59.97410</latitude>
+            <longitude>30.33828</longitude>
+            <address>60, Большой Сампсониевский проспект, Выборгская сторона, округ Сампсониевское, Санкт-Петербург, Северо-Западный федеральный округ, 190000, Россия</address>
+        </coordinates0>
+        <coordinates1>
+            <latitude>24.08021</latitude>
+            <longitude>-56.62354</longitude>
+            <address></address>
+        </coordinates1>
+        <coordinates2>
+            <latitude>89.80601</latitude>
+            <longitude>-239.21875</longitude>
+            <address></address>
+        </coordinates2>
+        <coordinates3>
+            <latitude>52.20013</latitude>
+            <longitude>-105.12486</longitude>
+            <address>Pioneer Hotel, 9th Street, Humboldt, Saskatchewan, S0K 2A0, Canada</address>
+        </coordinates3>
+        <coordinates4>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <address>Soul Buoy</address>
+        </coordinates4>
+        <coordinates5>
+            <latitude>7.89106</latitude>
+            <longitude>-72.48159</longitude>
+            <address>Calle 14, San Luis, Кукута, Oriental, Norte de Santander, Región Andina, 540004, Columbia</address>
+        </coordinates5>
+        <coordinates6>
+            <latitude>28.00605</latitude>
+            <longitude>69.31322</longitude>
+            <address>گھوٹکی, سندھ, پاکستان</address>
+        </coordinates6>
+    </Сoordinates>
+</Data>

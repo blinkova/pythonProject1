@@ -1,2 +1,7 @@
 # Project exclude paths
 /venv/
+allure
+.py[cod]
+*.pyc
+.pytest_cache
+.idea
